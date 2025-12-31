@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you.html
+Disallow: /demo.html
+Disallow: /css/
+Disallow: /js/
+
+Sitemap: https://ishantwebworks.in/sitemap.xml
